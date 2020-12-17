@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--cjcpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3f2e4d32-8e8d-46d6-82bc-5bb8d962328b/resourceGroups/databricks-rg-cchalc-20201215/providers/Microsoft.Synapse/workspaces/cjcpocws1",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"cjcpocws1-ondemand.2f3d10be-8b01-404e-952a-76d906a1a5cf.sql.azuresynapse.net"
+		]
+	}
+}
